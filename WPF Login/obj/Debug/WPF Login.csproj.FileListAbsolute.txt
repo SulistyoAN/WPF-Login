@@ -1,0 +1,31 @@
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\WPF Login.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\WPF Login.exe
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\WPF Login.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\EntityFramework.dll
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\MaterialDesignColors.dll
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\EntityFramework.xml
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\MaterialDesignColors.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF_Login.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login.exe
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF Login.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\App.baml
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Register_Page.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Register_Page.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WPF Login\WPF Login\obj\Debug\WPF_Login.Migrations.addingModelUser.resources
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Home.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Update_Page.g.cs
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Home.baml
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\WPF Login\WPF Login\obj\Debug\View\Update_Page.baml
